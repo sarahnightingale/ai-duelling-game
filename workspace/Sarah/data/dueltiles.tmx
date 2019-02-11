@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="19" height="19" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="Gallery_Abandoned_Castle2" tilewidth="32" tileheight="32" tilecount="1147">
+  <image source="Tiled/Gallery_Abandoned_Castle2.jpg" width="1200" height="1000"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="19" height="19">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+XSx1EEMRAFUM3OFe9NFHhvosCGgg0Fmwiwu0AiwDo8Z14CmpmaE1Uc3uWrpVJ39U0I4ZY7qtSos5WEsM0Ou+yxn2TnT+4980KDJi0OnB1yxDEnnCbZeRfd9NBLH/2ccc4Fl1xxnZNPMc0Ms8wxT5Uade554DEnj/XfoEmLNh1ec/JY/7E5ZuWx/mNzzMpj8yqTl9mjWF5mj2J5mT36z/vVqXiXN9754JMvvvmhXSlWN5iGMMQwI4wyxjgTTDKQFqtbZIllVlhljXU22Ez/7r8WCtb9Al5oiKykBQAA
+  </data>
+ </layer>
+</map>
